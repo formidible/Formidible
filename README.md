@@ -1,54 +1,50 @@
 # Formidible
 
 ```text
-Rust        Linux        NixOS
-LLMs        Data         Forensics
-```
+Rust • Linux • NixOS • LLMs • Data Forensics
 
 I build things.
 
-Usually tools, experiments, or whatever I happen to be interested in.
+Mostly tools, experiments, and whatever I feel like working on.
 
-## Projects
+Projects
+NixPkg
 
-### NixPkg
+A simple Rust CLI for managing packages in NixOS.
 
-Rust CLI for managing packages in NixOS.
+Rust
+├── package management
+├── configuration editing
+├── backups
+├── dry-run mode
+└── nixos-rebuild integration
 
-```text
-add packages
-remove packages
-dry-run
-backups
-nixos-rebuild
-```
+View NixPkg →
 
-→ https://github.com/formidible/NixPkg
-
-## Interests
-
-```text
+Interests
 LLMs
 Data Forensics
+AI
 Rust
 Linux
 NixOS
 Cybersecurity
-AI
-```
+Tech
 
-## Currently
 
-```text
+
+
+
+
+
+
+
+
+GitHub
+
+Currently
 learning
 building
 experimenting
-```
-
-## Status
-
-```text
-not finished
-still learning
-still building
-```
+Contact
+Formidible@proton.me
