@@ -1,16 +1,54 @@
-## Hi there 👋
+# Formidible
 
-<!--
-**formidible/Formidible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Rust        Linux        NixOS
+LLMs        Data         Forensics
+```
 
-Here are some ideas to get you started:
+I build things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Usually tools, experiments, or whatever I happen to be interested in.
+
+## Projects
+
+### NixPkg
+
+Rust CLI for managing packages in NixOS.
+
+```text
+add packages
+remove packages
+dry-run
+backups
+nixos-rebuild
+```
+
+→ https://github.com/formidible/NixPkg
+
+## Interests
+
+```text
+LLMs
+Data Forensics
+Rust
+Linux
+NixOS
+Cybersecurity
+AI
+```
+
+## Currently
+
+```text
+learning
+building
+experimenting
+```
+
+## Status
+
+```text
+not finished
+still learning
+still building
+```
