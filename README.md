@@ -10,18 +10,33 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=formidible&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" />
+### `~/about`
+
+building small tools, experimenting with systems  
+and learning by making things that probably didn't need to exist
 
 <br>
+
+### `~/current`
+
+`NixOS` — daily driving & breaking it  
+`Rust` — learning through projects  
+`Networking` — proxies, protocols & internet stuff
+
+<br>
+
+### `~/stats`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=formidible&hide_border=true&background=00000000" />
 
 <br><br>
 
-<sub>nixos btw</sub>
+### `~/contact`
+
+`formidible@tutamail.com`
 
 <br>
 
-<sub>contact: formidible@tutamail.com</sub>
+<sub>nixos btw</sub>
 
 </div>
