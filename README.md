@@ -1,59 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:30363d&text=Formidible&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn" width="100%"/>
+# `formidible`
 
-# Formidible
-
-### Building projects and experimenting with ideas.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=building+things+i+think+are+cool;linux+%2F+networking+%2F+random+ideas;probably+breaking+nixos+rn" />
 
 <br>
 
-<a href="https://github.com/formidible">
-<img src="https://img.shields.io/badge/GitHub-formidible-161b22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:Formidible@proton.me">
-<img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
+`rust` · `go` · `js` · `nix` . `linux`
 
-</div>
+<br><br>
 
----
-
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/formidible/NixPkg">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=formidible&repo=NixPkg&theme=github_dark&hide_border=true">
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=formidible&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidible&layout=compact&theme=github_dark&hide_border=true" height="165">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=formidible&style=flat-square&color=161b22&label=profile%20views">
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=formidible&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" />
 
 <br>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=formidible&hide_border=true&background=00000000" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30363d,100:0d1117&section=footer" width="100%"/>
+<br><br>
+
+<sub>nixos btw</sub>
 
 </div>
