@@ -6,7 +6,7 @@
 
 <br>
 
-`rust` · `go` · `js` · `nix` . `linux`
+`rust` · `go` · `js` · `nix` · `linux`
 
 <br><br>
 
@@ -19,5 +19,9 @@
 <br><br>
 
 <sub>nixos btw</sub>
+
+<br>
+
+<sub>contact: formidible@tutamail.com</sub>
 
 </div>
